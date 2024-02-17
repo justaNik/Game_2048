@@ -6,6 +6,7 @@ import java.util.Random;
  * Класс, реализующий логику игры
  */
 public class Game {
+    //new line!
 
     /**
      * объект Random для генерации случайных чисел
